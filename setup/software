@@ -1,0 +1,22 @@
+[] Make sure you have Google Chrome installed !!!
+[] Create an account on https://github.com 
+[] Install Visual Studio Code 
+[] Select Menu -> File -> Auto Save so that your changes are automatically saved
+[] Install GitHub Desktop
+[] Learn Getting started with GitHub Markdown 
+[] Ask for permission to access https://github.com/shishironline/learning-python-r-data-ai 
+[] Go to https://foambubble.github.io/foam/#getting-started and get acquainted with foam - what it is and Getting started
+[] Ask for creation of a branch which you can play with freely; when changes are satisfactory, we can add them to Master branch
+[] Open GitHub Desktop and clone your branch locally into a folder
+[] Open Visual Studio Code and open your cloned repository in it
+[] It will Ask to Install recommended extensions, select All and after installation of extensions is complete, restart VS Code
+[] From Menu -> File -> Open Folder, open your local clone of the repository
+[] Create a New folder MyProblems 
+[] Create a new File Todo
+[] Select all on this page and copy it to your Todo File
+[] Start from point 1 and go on checking the boxes as you complete every step
+[] Note down any problems, queries, difficulties or any questions at the place below the checkbox
+[] Once this is complete, open your local repository, make all changes you want in VS Code, 
+[] Open GitHub Desktop, and click commit to Master () or whichever branch you are working with
+[] Next, push the changes to GitHub
+[] Open https://github.com/shishironline/learning-python-r-data-ai, go to your branch and ensure all changes are there
